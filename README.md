@@ -55,7 +55,7 @@ Data analysis, exploratory analysis, and business intelligence project on over 5
 ![images](images/NREMP_Dashboard.gif)
 
 ![images](images/Recording%202026-10-24%20215247.gif)
-![Click here to go to the presentation](https://github.com/WESAMAAM/-/blob/main/Our%20Performance%20In%20The%20Past%203%20Years%20(2013-2016)%20Report.pdf)
+[Click here to go to the presentation](https://github.com/WESAMAAM/-/blob/main/Our%20Performance%20In%20The%20Past%203%20Years%20(2013-2016)%20Report.pdf)
 
 ## <a id="-repository-structure-and-detailed-documentation"></a> Repository Structure and Detailed Documentation
 - [Stage 1: Environment Setup and Data Ingestion](https://github.com/WESAMAAM/-/blob/main/Database%20Configuration%20and%20Data%20Loading.md)
