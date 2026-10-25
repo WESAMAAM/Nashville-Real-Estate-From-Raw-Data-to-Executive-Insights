@@ -80,6 +80,8 @@ All eleven worksheets were assembled into a cohesive executive dashboard titled 
 
 <img width="1924" height="1144" alt="NREMP_Dashboard" src="https://github.com/user-attachments/assets/9c1cd478-e80b-48b4-8d5c-2348538af046" />
 
+- [Click Here To Go To The Dashborad](https://github.com/WESAMAAM/-/blob/main/NREMP_Dashboard.gif) Unfortunately, I didn't find any way to share the full dashboard with Tableau Free Edition.
+- 
 ## 5. Executive Report and Recorded Presentation
 To bridge technical analysis with business decision making, a comprehensive executive presentation titled Our Performance In The Past 3 Years (2013 to 2016): An Executive Market Analysis was created in Google Slides and recorded by Wesam Musalli.
 
@@ -91,4 +93,5 @@ To bridge technical analysis with business decision making, a comprehensive exec
 
 ![images](images/Recording%202026-10-24%20215247.gif)
 
-![Watch the Recorded Executive Presentation Video]()
+- [Click Here To Go To The Report](https://github.com/WESAMAAM/-/blob/main/Our%20Performance%20In%20The%20Past%203%20Years%20(2013-2016)%20Report.pdf)
+- [Click Here To Go To The Presentation Prepared By WESAM MUSALLI](https://youtu.be/txJzx5AM2fk)
