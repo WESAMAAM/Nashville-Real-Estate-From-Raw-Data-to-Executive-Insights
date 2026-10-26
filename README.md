@@ -1,3 +1,5 @@
+# 🏙 Nashville Real Estate: From Raw Data to Executive Insights
+
 ## 📚 Table of Contents
 - [Project Summary](#-project-summary)
 - [Database Configuration and Data Loading](#-database-configuration-and-data-loading)
