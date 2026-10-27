@@ -10,7 +10,7 @@
 
 ## Project Architecture
 ![images](images/Gemini_Generated_Image_a5ozv4a5ozv4a5oz.jpg)
-"Data analysis was mainly done in DBeaver (SQL), while Python was used strictly for some visualization."
+"Exploratory Data analysis was mainly done in DBeaver (SQL), while Python was used strictly for some visualization."
 
 ## <a id="-project-summary"></a> Project Summary
 Data analysis, exploratory analysis, and business intelligence project on over 56,000 housing transactions in Nashville. Raw spreadsheet records were migrated into PostgreSQL, cleaned and normalized into a relational schema using SQL, analyzed with Python to solve key financial questions, and delivered through an interactive Tableau dashboard and executive presentation.
