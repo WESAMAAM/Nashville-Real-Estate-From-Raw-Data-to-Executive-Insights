@@ -20,18 +20,12 @@ Data analysis, exploratory analysis, and business intelligence project on over 5
 
 **Final Outcome:** Successfully ingested over 56,000 raw records and automatically standardized sale dates into clean date formats upon import.
 
-![images](images/Screenshot%202026-10-10%20175333.png)
+![images](images/Screenshot%202026-10-10%20171540.png)
 
 ## <a id="-stage-2-data-cleaning-transformation-and-normalization"></a> Stage 2: Data Cleaning, Transformation, and Normalization
 **What Was Done:** Populated missing property addresses via self-joins, split composite property and owner addresses into atomic street, city, and state columns, standardized `SoldAsVacant` flags, cleaned `ParcelID` strings with regular expressions, converted land area from acres to square meters, removed initial duplicates, and decomposed the flat table into a normalized 3-table relational schema before dropping the staging table.
 
 **Final Outcome:** Transformed a single unorganized 33MB flat table into a clean, lightweight relational database consisting of `ownerinfo`, `propertyinfo`, and `saleinfo` linked by primary and foreign keys.
-
-![images](images/Screenshot%202026-10-15%20215741.png)
-
-![images](images/Screenshot%202026-10-15%20215856.png)
-
-![images](images/Screenshot%202026-10-15%20220009.png)
 
 ![images](images/Screenshot%202026-10-16%20163955.png)
 
@@ -45,8 +39,6 @@ Data analysis, exploratory analysis, and business intelligence project on over 5
 * **Best Time and Location to Close Deals:** Mid-year summer months (May to July) recorded the highest deal prices ($240,000) and peak monthly profit (nearly $100 million in June 2016), while the Urban Services District generated $492 million in 2016 through high transaction volume.
 
 **Operational Deliverable:** Exported a targeted Excel list of the top 16 repeat VIP buyers (owning 10 or more properties) for Public Relations and Sales outreach.
-
-![images](images/Screenshot%202026-10-20%20152841.png)
 
 ![images](images/Screenshot%202026-10-20%20153336.png)
 
