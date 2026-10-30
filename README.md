@@ -40,7 +40,7 @@ Data analysis, exploratory analysis, and business intelligence project on over 5
 
 **Operational Deliverable:** Exported a targeted Excel list of the top 16 repeat VIP buyers (owning 10 or more properties) for Public Relations and Sales outreach.
 
-![images](images/Screenshot%202026-10-20%20153336.png)
+![images](images/Screenshot%202026-10-30%20194651.png)
 
 ## <a id="-stage-4-data-visualization-interactive-dashboarding-and-executive-presentation"></a> Stage 4: Data Visualization, Interactive Dashboarding, and Executive Presentation
 **What Was Done:** Connected Tableau Desktop directly to PostgreSQL in Extract mode, linked the 3 relational tables, built 11 specialized worksheets, assembled a 3-column executive dashboard, and recorded a full strategic presentation in Google Slides.
