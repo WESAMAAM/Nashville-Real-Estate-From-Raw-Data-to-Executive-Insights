@@ -63,7 +63,7 @@ Data analysis, exploratory analysis, and business intelligence project on over 5
 - [Click Here To Go To The Dashborad](https://github.com/WESAMAAM/Nashville-Real-Estate-From-Raw-Data-to-Executive-Insights/blob/main/NREMP_Dashboard.gif) Unfortunately, I didn't find any way to share the full dashboard with Tableau Free Edition.
 
 ## <a id="-repository-structure-and-detailed-documentation"></a> Repository Structure and Detailed Documentation
-- [Stage 1: Database Configuration and Data Loading](https://github.com/WESAMAAM/-/blob/main/Database%20Configuration%20and%20Data%20Loading.md)
+- [Stage 1: Database Configuration and Data Loading](https://github.com/WESAMAAM/Nashville-Real-Estate-From-Raw-Data-to-Executive-Insights/blob/main/01_Database%20Configuration%20and%20Data%20Loading.md)
 - [Stage 2: Data Cleaning, Transformation, and Normalization](https://github.com/WESAMAAM/-/blob/main/Data%20Cleaning%20and%20Normalization.md)
 - [Stage 3: Exploratory Data Analysis, Feature Engineering, and Business Insights](https://github.com/WESAMAAM/-/blob/main/Exploratory%20Data%20Analysis%2C%20Feature%20Engineering%2C%20and%20Business%20Insights.md)
 - [Stage 4: Data Visualization, Interactive Dashboarding, and Executive Presentation](https://github.com/WESAMAAM/-/blob/main/Data%20Visualization%2C%20Interactive%20Dashboarding%2C%20and%20Executive%20Presentation.md)
