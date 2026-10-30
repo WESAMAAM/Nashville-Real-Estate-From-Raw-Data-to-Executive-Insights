@@ -57,7 +57,7 @@ Data analysis, exploratory analysis, and business intelligence project on over 5
 
 ![images](images/NREMP_Dashboard.gif)
 
-![images](images/Recording%202026-10-24%20215247.gif)
+![images](images/Recording%202026-10-30%20190147.gif)
 - [Click Here To Go To The Report](https://github.com/WESAMAAM/-/blob/main/Our%20Performance%20In%20The%20Past%203%20Years%20(2013-2016)%20Report.pdf)
 - [Click Here To Go To The Presentation Prepared By WESAM MUSALLI](https://youtu.be/txJzx5AM2fk)
 - [Click Here To Go To The Dashborad](https://github.com/WESAMAAM/-/blob/main/NREMP_Dashboard.gif) Unfortunately, I didn't find any way to share the full dashboard with Tableau Free Edition.
