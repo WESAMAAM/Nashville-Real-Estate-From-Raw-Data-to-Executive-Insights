@@ -16,6 +16,9 @@
 Data analysis, exploratory analysis, and business intelligence project on over 56,000 housing transactions in Nashville. Raw spreadsheet records were migrated into PostgreSQL, cleaned and normalized into a relational schema using SQL, analyzed with Python to solve key financial questions, and delivered through an interactive Tableau dashboard and executive presentation.
 
 ## <a id="-database-configuration-and-data-loading"></a> Stage 1: Database Configuration and Data Loading
+
+- [Stage 1 Detailed Documentation](https://github.com/WESAMAAM/Nashville-Real-Estate-From-Raw-Data-to-Executive-Insights/blob/main/01_Database%20Configuration%20and%20Data%20Loading.md)
+  
 **What Was Done:** Converted the raw Excel dataset to CSV, built the `NashvilleHousingData` database in PostgreSQL 18 via pgAdmin 4, defined a 19-column staging table, and connected DBeaver for SQL operations.
 
 **Final Outcome:** Successfully ingested over 56,000 raw records and automatically standardized sale dates into clean date formats upon import.
@@ -23,6 +26,9 @@ Data analysis, exploratory analysis, and business intelligence project on over 5
 ![images](images/Screenshot%202026-10-10%20171540.png)
 
 ## <a id="-stage-2-data-cleaning-transformation-and-normalization"></a> Stage 2: Data Cleaning, Transformation, and Normalization
+
+- [Stage 2 Detailed Documentation](https://github.com/WESAMAAM/Nashville-Real-Estate-From-Raw-Data-to-Executive-Insights/blob/main/02_Data%20Cleaning%20and%20Normalization.md)
+  
 **What Was Done:** Populated missing property addresses via self-joins, split composite property and owner addresses into atomic street, city, and state columns, standardized `SoldAsVacant` flags, cleaned `ParcelID` strings with regular expressions, converted land area from acres to square meters, removed initial duplicates, and decomposed the flat table into a normalized 3-table relational schema before dropping the staging table.
 
 **Final Outcome:** Transformed a single unorganized 33MB flat table into a clean, lightweight relational database consisting of `ownerinfo`, `propertyinfo`, and `saleinfo` linked by primary and foreign keys.
@@ -30,6 +36,9 @@ Data analysis, exploratory analysis, and business intelligence project on over 5
 ![images](images/Screenshot%202026-10-16%20163955.png)
 
 ## <a id="-stage-3-exploratory-data-analysis-feature-engineering-and-business-insights"></a> Stage 3: Exploratory Data Analysis, Feature Engineering, and Business Insights
+
+- [Stage 3 Detailed Documentation](https://github.com/WESAMAAM/Nashville-Real-Estate-From-Raw-Data-to-Executive-Insights/blob/main/03_Exploratory%20Data%20Analysis%2C%20Feature%20Engineering%2C%20and%20Business%20Insights.md)
+  
 **What Was Done:** Purged 4,000 redundant sales transactions, engineered new analytical features (price tiers, net income margins, profitability status, and 6 architectural age eras), built SQL reporting views, and analyzed market trends using Python.
 
 **Final Outcome and Core Discoveries:**
@@ -43,6 +52,9 @@ Data analysis, exploratory analysis, and business intelligence project on over 5
 ![images](images/Screenshot%202026-10-30%20194651.png)
 
 ## <a id="-stage-4-data-visualization-interactive-dashboarding-and-executive-presentation"></a> Stage 4: Data Visualization, Interactive Dashboarding, and Executive Presentation
+
+- [Stage 4 Detailed Documentation](https://github.com/WESAMAAM/Nashville-Real-Estate-From-Raw-Data-to-Executive-Insights/blob/main/04_Data%20Visualization%2C%20Interactive%20Dashboarding%2C%20and%20Executive%20Presentation.md)
+  
 **What Was Done:** Connected Tableau Desktop directly to PostgreSQL in Extract mode, linked the 3 relational tables, built 11 specialized worksheets, assembled a 3-column executive dashboard, and recorded a full strategic presentation in Google Slides.
 
 **Final Outcome:** Delivered a production-ready Tableau Dashboard summarizing key metrics ($201,000 median sale price, $29,000 median net revenue, and 74.89% profitable deals ratio) alongside an Executive Market Analysis Presentation prepared by WESAM MUSALLI.
