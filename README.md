@@ -55,7 +55,7 @@ Data analysis, exploratory analysis, and business intelligence project on over 5
 
 - [Stage 4 Detailed Documentation](https://github.com/WESAMAAM/Nashville-Real-Estate-From-Raw-Data-to-Executive-Insights/blob/main/04_Data%20Visualization%2C%20Interactive%20Dashboarding%2C%20and%20Executive%20Presentation.md)
   
-**What Was Done:** Connected Tableau Desktop directly to PostgreSQL in Extract mode, linked the 3 relational tables, built 11 specialized worksheets, assembled a 3-column executive dashboard, and recorded a full strategic presentation in Google Slides.
+**What Was Done:** Connected Tableau Desktop directly to PostgreSQL in Extract mode, linked the 3 relational tables, built 11 specialized worksheets, assembled a 3-column executive dashboard, and recorded a full strategic presentation in Google Slides to stakeholders.
 
 **Final Outcome:** Delivered a production-ready Tableau Dashboard summarizing key metrics ($201,000 median sale price, $29,000 median net revenue, and 74.89% profitable deals ratio) alongside an Executive Market Analysis Presentation prepared by WESAM MUSALLI.
 
